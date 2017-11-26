@@ -17,7 +17,7 @@ Se debe identificar los tipos de naavegación de lo siguientes sites :
 ***
 
 ## GitHub:
-![GitHub](assets/images/Imagen4.png)
+![GitHub](assets/images/navegacion.png)
 ![GitHub](assets/images/Imagen5.png)
 ![GitHub](assets/images/Imagen6.png)
 ![GitHub](assets/images/Imagen7.png)
